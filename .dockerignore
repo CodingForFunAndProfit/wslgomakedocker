@@ -1,0 +1,15 @@
+.git
+.github
+
+README.md
+LICENSE
+
+.vscode
+*.code-workspace
+
+bin
+
+.tmpfiles
+.dev_files
+
+Makefile
